@@ -39,35 +39,35 @@
     },
     {
       "DataType": "G_BannerAd",
-      "DataValue": "ca-app-pub-4894494008899574/5689165865"
+      "DataValue": "ca-app-pub-3254033008378290/7615971226"
     },
     {
       "DataType": "G_InterAd",
-      "DataValue": "ca-app-pub-4894494008899574/3856962025"
+      "DataValue": "ca-app-pub-3254033008378290/4798236195"
     },
     {
       "DataType": "G_NativeAd",
-      "DataValue": "ca-app-pub-4894494008899574/8474863880"
+      "DataValue": "ca-app-pub-3254033008378290/6443130988"
     },
     {
       "DataType": "G_Video_Ad",
-      "DataValue": "ca-app-pub-3940256099942544/5224354917"
+      "DataValue": ""
     },
     {
       "DataType": "G_AppOpenAd",
-      "DataValue": "ca-app-pub-4894494008899574/7928068972"
+      "DataValue": "ca-app-pub-3254033008378290/8157832015"
     },
     {
       "DataType": "Fb_Banner_ads",
-      "DataValue": "1346009369084938_1346017059084169"
+      "DataValue": "1143797326087539_1143798682754070"
     },
     {
       "DataType": "Fb_Inter_ads",
-      "DataValue": "1346009369084938_1346018605750681"
+      "DataValue": "1143797326087539_1143799372754001"
     },
     {
       "DataType": "Fb_Native_Ads",
-      "DataValue": "1346009369084938_1425786341107240"
+      "DataValue": "1143797326087539_1143799589420646"
     }
   ]
 }
