@@ -39,15 +39,15 @@
     },
     {
       "DataType": "G_BannerAd",
-      "DataValue": "ca-app-pub-3254033008378290/7615971226"
+      "DataValue": "ca-app-pub-3940256099942544/6300978111"
     },
     {
       "DataType": "G_InterAd",
-      "DataValue": "ca-app-pub-3254033008378290/4798236195"
+      "DataValue": "ca-app-pub-3940256099942544/1033173712"
     },
     {
       "DataType": "G_NativeAd",
-      "DataValue": "ca-app-pub-3254033008378290/6443130988"
+      "DataValue": "ca-app-pub-3940256099942544/2247696110"
     },
     {
       "DataType": "G_Video_Ad",
@@ -55,19 +55,19 @@
     },
     {
       "DataType": "G_AppOpenAd",
-      "DataValue": "ca-app-pub-3254033008378290/8157832015"
+      "DataValue": "ca-app-pub-3940256099942544/3419835294"
     },
     {
       "DataType": "Fb_Banner_ads",
-      "DataValue": "1143797326087539_1143798682754070"
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     {
       "DataType": "Fb_Inter_ads",
-      "DataValue": "1143797326087539_1143799372754001"
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     {
       "DataType": "Fb_Native_Ads",
-      "DataValue": "1143797326087539_1143799589420646"
+      "DataValue": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     }
   ]
 }
